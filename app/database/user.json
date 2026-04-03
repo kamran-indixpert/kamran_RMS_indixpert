@@ -1,0 +1,42 @@
+[
+    {
+        "id": "58715a2b",
+        "name": "kamran",
+        "email": "kamran@gmail.com",
+        "password": "123Kamran",
+        "role": "staff",
+        "status": "active"
+    },
+    {
+        "id": "21799f01",
+        "name": "kamran",
+        "email": "gufran@gmail.com",
+        "password": "123Kamran",
+        "role": "staff",
+        "status": "active"
+    },
+    {
+        "id": "bac62853",
+        "name": "kamran",
+        "email": "imran@gmail.com",
+        "password": "123Kamran",
+        "role": "admin",
+        "status": "active"
+    },
+    {
+        "id": "6eaa04f8",
+        "name": "a",
+        "email": "v@gmail.com",
+        "password": "Vishal@123",
+        "role": "staff",
+        "status": "active"
+    },
+    {
+        "id": "fc883e7e",
+        "name": "kamran",
+        "email": "kkk@gmail.com",
+        "password": "123Kamran",
+        "role": "staff",
+        "status": "active"
+    }
+]

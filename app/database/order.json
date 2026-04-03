@@ -1,0 +1,29 @@
+[
+    {
+        "order_id": "66199174",
+        "item": "Pastry",
+        "category": "drinks",
+        "plate": "full",
+        "qty": 2,
+        "unit_price": 70,
+        "total": 140
+    },
+    {
+        "order_id": "17af7a25",
+        "item": "Pastry",
+        "category": "drinks",
+        "plate": "half",
+        "qty": 2,
+        "unit_price": 35.0,
+        "total": 70.0
+    },
+    {
+        "order_id": "8782b618",
+        "item": "Sweet Lassi",
+        "category": "drinks",
+        "plate": "half",
+        "qty": 4,
+        "unit_price": 35.0,
+        "total": 140.0
+    }
+]

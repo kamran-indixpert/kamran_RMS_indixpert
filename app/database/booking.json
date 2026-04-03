@@ -1,0 +1,20 @@
+[
+    {
+        "id": "7e8dde",
+        "name": "kamran",
+        "tables": 3,
+        "status": "booked"
+    },
+    {
+        "id": "6b375e",
+        "name": "kamran",
+        "tables": 5,
+        "status": "booked"
+    },
+    {
+        "id": "af1278",
+        "name": "kamran",
+        "tables": 5,
+        "status": "booked"
+    }
+]
